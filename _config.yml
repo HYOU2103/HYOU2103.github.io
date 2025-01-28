@@ -144,11 +144,10 @@ social:
   links: # An array of links to social media profiles
 
 
-# Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider: google-gtag
   google:
-    tracking_id          : "G-MB6PWWEZ6M"
+    tracking_id: G-MB6PWWEZ6M
 
 
 # Reading Files
