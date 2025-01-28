@@ -14,7 +14,7 @@ I'm passionate about learning new technologies and improving my problem-solving 
 ## Education
 - **B.S. in Computer Science**  
   University of Houston  
-  Expected Graduation: May 2025  
+  Expected Graduation: December 2025  
 
 ## Links
 - [LinkedIn Profile](https://www.linkedin.com/in/haitham-yousif)  
