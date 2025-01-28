@@ -147,7 +147,7 @@ social:
 analytics:
   provider: google-gtag
   google:
-    tracking_id: G-MB6PWWEZ6M
+    tracking_id: G-MB6PWWEZ6M 
 
 
 # Reading Files
