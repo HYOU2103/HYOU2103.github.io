@@ -1,17 +1,15 @@
 ---
 permalink: /
-#title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-
 # About Me
 Hi, I'm Haitham Yousif, a senior at the University of Houston studying Computer Science.  
 I'm passionate about learning new technologies and improving my problem-solving skills.
+
 
 ## Education
 - **B.S. in Computer Science**  
@@ -19,10 +17,10 @@ I'm passionate about learning new technologies and improving my problem-solving 
   Expected Graduation: May 2025  
 
 ## Links
-- [LinkedIn Profile](www.linkedin.com/in/haitham-yousif)  
-- [GitHub Profile](HYOU2103.github.io)  
-- [Resume (PDF)](../files/resume.pdf)
-- [Department of Computer Science at UH](cs.uh.edu)
+- [LinkedIn Profile](https://www.linkedin.com/in/haitham-yousif)  
+- [GitHub Profile](https://HYOU2103.github.io)  
+- [Resume (PDF)](/files/resume.pdf)  
+- [Department of Computer Science at UH](https://www.cs.uh.edu)
 
 ## Contact
 Feel free to reach out to me at:  
