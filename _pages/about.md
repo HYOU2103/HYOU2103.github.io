@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+
 Hi, I'm Haitham Yousif, a senior at the University of Houston studying Computer Science.  
 I'm passionate about learning new technologies and improving my problem-solving skills.
 
