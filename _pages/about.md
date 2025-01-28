@@ -19,7 +19,7 @@ I'm passionate about learning new technologies and improving my problem-solving 
 ## Links
 - [LinkedIn Profile](https://www.linkedin.com/in/haitham-yousif)  
 - [GitHub Profile](https://github.com/HYOU2103)
-- [Resume (PDF)](/files/resume.pdf)  
+- [Resume (PDF)](files/HaithamYousifResume.pdf)  
 - [Department of Computer Science at UH](https://www.cs.uh.edu)
 
 ## Contact
