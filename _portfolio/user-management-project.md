@@ -2,6 +2,7 @@
 title: "User Management System Project"
 excerpt: "A project focused on user management functionality"
 collection: portfolio
+permalink: /portfolio/user-management/
 ---
 ## User Management System Project
 
